@@ -1,0 +1,20 @@
+# Data files — too large to commit (creditcard.csv is 144MB, fraud.db is 85MB)
+data/creditcard.csv
+data/fraud.db
+data/model_features.csv
+
+
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
